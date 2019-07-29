@@ -1,0 +1,1 @@
+# Simple logrotate for Go.
